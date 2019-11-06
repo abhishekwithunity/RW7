@@ -1,0 +1,1120 @@
+fileFormatVersion: 2
+guid: a77cf1f2ed6304df39fe989a32988c84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2919301343211606927
+    second: LaserShotEffect_0
+  - first:
+      213: -8639106286345167982
+    second: LaserShotEffect_1
+  - first:
+      213: -2128058327319379091
+    second: LaserShotEffect_2
+  - first:
+      213: -314366956844441541
+    second: LaserShotEffect_3
+  - first:
+      213: -4062453896090184854
+    second: LaserShotEffect_4
+  - first:
+      213: 7607348261431959635
+    second: LaserShotEffect_5
+  - first:
+      213: -8325824611427313697
+    second: LaserShotEffect_6
+  - first:
+      213: 6192474853691141272
+    second: LaserShotEffect_7
+  - first:
+      213: 310876803279175230
+    second: LaserShotEffect_8
+  - first:
+      213: -1839643882817971283
+    second: LaserShotEffect_9
+  - first:
+      213: -6415509502402743786
+    second: LaserShotEffect_10
+  - first:
+      213: -8314498294726301780
+    second: LaserShotEffect_11
+  - first:
+      213: -4560876647540439551
+    second: LaserShotEffect_12
+  - first:
+      213: -4721448430527103487
+    second: LaserShotEffect_13
+  - first:
+      213: 1969637328626522443
+    second: LaserShotEffect_14
+  - first:
+      213: 3348687987984209487
+    second: LaserShotEffect_15
+  - first:
+      213: 108546623762728918
+    second: LaserShotEffect_16
+  - first:
+      213: 6857488586582646505
+    second: LaserShotEffect_17
+  - first:
+      213: -4266456635650073060
+    second: LaserShotEffect_18
+  - first:
+      213: -2213695896574284209
+    second: LaserShotEffect_19
+  - first:
+      213: 6099114036427008129
+    second: LaserShotEffect_20
+  - first:
+      213: -8760202724753139075
+    second: LaserShotEffect_21
+  - first:
+      213: 5735294928943730093
+    second: LaserShotEffect_22
+  - first:
+      213: -9000464795740419784
+    second: LaserShotEffect_23
+  - first:
+      213: 6925027815620047055
+    second: LaserShotEffect_24
+  - first:
+      213: -5008942297433207151
+    second: LaserShotEffect_25
+  - first:
+      213: -6632464109481855525
+    second: LaserShotEffect_26
+  - first:
+      213: 1202993359082498742
+    second: LaserShotEffect_27
+  - first:
+      213: -8199496381769902049
+    second: LaserShotEffect_28
+  - first:
+      213: 5879611956766847878
+    second: LaserShotEffect_29
+  - first:
+      213: -2042164016095322175
+    second: LaserShotEffect_30
+  - first:
+      213: -3323374962679830262
+    second: LaserShotEffect_31
+  - first:
+      213: -2866063941746366594
+    second: LaserShotEffect_32
+  - first:
+      213: -6566586867154215743
+    second: LaserShotEffect_33
+  - first:
+      213: 4187521091883627315
+    second: LaserShotEffect_34
+  - first:
+      213: 2742243196634191503
+    second: LaserShotEffect_35
+  - first:
+      213: -2713383274491667033
+    second: LaserShotEffect_36
+  - first:
+      213: -2796554552190504446
+    second: LaserShotEffect_37
+  - first:
+      213: 2725328662033093210
+    second: LaserShotEffect_38
+  - first:
+      213: 3144508306406484795
+    second: LaserShotEffect_39
+  - first:
+      213: 7472418208037045432
+    second: LaserShotEffect_40
+  - first:
+      213: -626373391118407134
+    second: LaserShotEffect_41
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LaserShotEffect_0
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1032
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59999671e77904afb988271357a85790
+      internalID: -2919301343211606927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_1
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1019
+        width: 531
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c873d26cbdfdf4cce9045d9c1d0c7a08
+      internalID: -8639106286345167982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_2
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1021
+        width: 529
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9572548b2fd24cd4bd912da9be6efd3
+      internalID: -2128058327319379091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_3
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1010
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5690069cb58463492a13f3b93a5045
+      internalID: -314366956844441541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 924
+        width: 19
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfc0182c9d4b4f21a9b75df329cfeab
+      internalID: -4062453896090184854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_5
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 970
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8836b9fbc48eb4fb9a9975629a8c0697
+      internalID: 7607348261431959635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_6
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 944
+        width: 529
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e936e9477f46486192eb95baaf13bab
+      internalID: -8325824611427313697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_7
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 964
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91191662923f2442faa4a1d0a14894d6
+      internalID: 6192474853691141272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_8
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 909
+        width: 529
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b2992462873474fa8a3d082f463840
+      internalID: 310876803279175230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_9
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 909
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1398853513d2045b4a00b00b6974ed49
+      internalID: -1839643882817971283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_10
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 886
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c41557ada6a4a5ea1b63d10d3ff0c9
+      internalID: -6415509502402743786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_11
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 805
+        width: 529
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfb9596baac04aac9a2c1d5da83c369
+      internalID: -8314498294726301780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_12
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 882
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540fd64fe944746059b5987f871e4ab5
+      internalID: -4560876647540439551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 825
+        width: 4
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6d32f46ca1d4b30b618fff47ece36d
+      internalID: -4721448430527103487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_14
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 818
+        width: 529
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226a18fbcc906443f8ba365bb33f696e
+      internalID: 1969637328626522443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_15
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 815
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afde023889bc4beb8eca7bbfb669dbd
+      internalID: 3348687987984209487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_16
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 792
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2001adfc0bddb4097aa760b27d492324
+      internalID: 108546623762728918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_17
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 798
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a546cd5e0bde4fc484617592e59e3e4
+      internalID: 6857488586582646505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_18
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 725
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aed727ac35334861a75569df6cdf20f
+      internalID: -4266456635650073060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_19
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 746
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb84a7d8d43c045c6b9694d31711cbda
+      internalID: -2213695896574284209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_20
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 683
+        width: 532
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b904d0ce57224e038b107f0550c3725
+      internalID: 6099114036427008129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_21
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 749
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995c03383a044401d85e0077183ca869
+      internalID: -8760202724753139075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_22
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 629
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418e8d69af7cf4f999271ca5c2be9a48
+      internalID: 5735294928943730093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_23
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 661
+        width: 529
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8131a92dada486bb99f25c99b3f68c
+      internalID: -9000464795740419784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_24
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 565
+        width: 529
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f1053cf86944afb82ec18b842e42f3
+      internalID: 6925027815620047055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_25
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 634
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafaea6160415402981010e47b72e24d
+      internalID: -5008942297433207151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_26
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 522
+        width: 529
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4457349bfe563411292c725a0abdd901
+      internalID: -6632464109481855525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_27
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 506
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0edb723beb54def8098f672d86df15
+      internalID: 1202993359082498742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_28
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 450
+        width: 529
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cc860d7e61a468189c4018211db0e1
+      internalID: -8199496381769902049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_29
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 409
+        width: 529
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f42b1eeb82442be9d93bb31533906a
+      internalID: 5879611956766847878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_30
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 450
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d6ddd5511134e26a11945200b6d77d
+      internalID: -2042164016095322175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_31
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 322
+        width: 529
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9bc5d8fde204d8686ad876b42676e8
+      internalID: -3323374962679830262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_32
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 407
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788d9b2d3886c4af5a4e9c73b7e710a7
+      internalID: -2866063941746366594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_33
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 293
+        width: 529
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381a44bf4bfbb4d66b4d0290d7b63e29
+      internalID: -6566586867154215743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_34
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 182
+        width: 529
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b42fb1435984e4baff0171bb314420
+      internalID: 4187521091883627315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_35
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 185
+        width: 532
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f9420bda1fe437e9ab692f4695f461
+      internalID: 2742243196634191503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_36
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 211
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f7a1ed05d544602833914e84d4eb1f
+      internalID: -2713383274491667033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_37
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 96
+        width: 529
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54c0bd95654848719e20db5441689b3
+      internalID: -2796554552190504446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_38
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 78
+        width: 529
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061f22e2772534085a6e20f286db1112
+      internalID: 2725328662033093210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_39
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 42
+        width: 529
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d846181bad0664dbd82605b84f554ecc
+      internalID: 3144508306406484795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_40
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 29
+        width: 529
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc075a8e5f3e4eed9e67e5278c5ef84
+      internalID: 7472418208037045432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserShotEffect_41
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1009
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919b8d8552a934e118fa727bb96f2e01
+      internalID: -626373391118407134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c714e2caa209f4977a3ac0c324d1d5fc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

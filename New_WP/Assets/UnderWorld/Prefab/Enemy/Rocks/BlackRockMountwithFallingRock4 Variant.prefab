@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5618104908316155073
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8913371341967662005, guid: 7f6bed56011a341129041b37d0e442cf,
+        type: 3}
+      propertyPath: m_Name
+      value: BlackRockMountwithFallingRock4 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8913371341967662002, guid: 7f6bed56011a341129041b37d0e442cf,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.48
+      objectReference: {fileID: 0}
+    - target: {fileID: 8913371341967662002, guid: 7f6bed56011a341129041b37d0e442cf,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8913371341967662002, guid: 7f6bed56011a341129041b37d0e442cf,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -28.972326
+      objectReference: {fileID: 0}
+    - target: {fileID: 8913371341967662002, guid: 7f6bed56011a341129041b37d0e442cf,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8913371341967662002, guid: 7f6bed56011a341129041b37d0e442cf,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8913371341967662002, guid: 7f6bed56011a341129041b37d0e442cf,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8913371341967662002, guid: 7f6bed56011a341129041b37d0e442cf,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8913371341967662002, guid: 7f6bed56011a341129041b37d0e442cf,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8913371341967662002, guid: 7f6bed56011a341129041b37d0e442cf,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8913371341967662002, guid: 7f6bed56011a341129041b37d0e442cf,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8913371341967662002, guid: 7f6bed56011a341129041b37d0e442cf,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8913371341843317103, guid: 7f6bed56011a341129041b37d0e442cf,
+        type: 3}
+      propertyPath: ImpactAudio
+      value: 
+      objectReference: {fileID: 8300000, guid: 7ee8cc84a86404167ad5647b51ac4946, type: 3}
+    - target: {fileID: 8913371341843317103, guid: 7f6bed56011a341129041b37d0e442cf,
+        type: 3}
+      propertyPath: soundAttack
+      value: 
+      objectReference: {fileID: 8300000, guid: 7ee8cc84a86404167ad5647b51ac4946, type: 3}
+    - target: {fileID: 8913371341843317103, guid: 7f6bed56011a341129041b37d0e442cf,
+        type: 3}
+      propertyPath: jumpForce
+      value: 1500
+      objectReference: {fileID: 0}
+    - target: {fileID: 8509859888497195993, guid: 7f6bed56011a341129041b37d0e442cf,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8509859888497195993, guid: 7f6bed56011a341129041b37d0e442cf,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8509859888497195993, guid: 7f6bed56011a341129041b37d0e442cf,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8509859888497195993, guid: 7f6bed56011a341129041b37d0e442cf,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8509859888497195993, guid: 7f6bed56011a341129041b37d0e442cf,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.49
+      objectReference: {fileID: 0}
+    - target: {fileID: 8509859888518361257, guid: 7f6bed56011a341129041b37d0e442cf,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 473908be96fa4453f8f3be9ee7d271de,
+        type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7f6bed56011a341129041b37d0e442cf, type: 3}

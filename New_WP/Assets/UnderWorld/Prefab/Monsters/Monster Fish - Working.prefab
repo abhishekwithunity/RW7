@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1659940138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7961421936616039445}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6833e9a43c824fcd98687f44ba868c0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hitFx: {fileID: 0}
+  monster: {fileID: 0}
+  soundhitfx: {fileID: 0}
+--- !u!1001 &7961421936616178317
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 173418, guid: 6b7ab9b28ca8d4143be0d01152880ee1, type: 3}
+      propertyPath: m_Name
+      value: Monster Fish - Working
+      objectReference: {fileID: 0}
+    - target: {fileID: 490338, guid: 6b7ab9b28ca8d4143be0d01152880ee1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 35.79
+      objectReference: {fileID: 0}
+    - target: {fileID: 490338, guid: 6b7ab9b28ca8d4143be0d01152880ee1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 490338, guid: 6b7ab9b28ca8d4143be0d01152880ee1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 490338, guid: 6b7ab9b28ca8d4143be0d01152880ee1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 490338, guid: 6b7ab9b28ca8d4143be0d01152880ee1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 490338, guid: 6b7ab9b28ca8d4143be0d01152880ee1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 490338, guid: 6b7ab9b28ca8d4143be0d01152880ee1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 490338, guid: 6b7ab9b28ca8d4143be0d01152880ee1, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 410418, guid: 6b7ab9b28ca8d4143be0d01152880ee1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 479298, guid: 6b7ab9b28ca8d4143be0d01152880ee1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 6197800, guid: 6b7ab9b28ca8d4143be0d01152880ee1, type: 3}
+      propertyPath: m_Size.y
+      value: 6.9734077
+      objectReference: {fileID: 0}
+    - target: {fileID: 6197800, guid: 6b7ab9b28ca8d4143be0d01152880ee1, type: 3}
+      propertyPath: m_Offset.y
+      value: 2.9171486
+      objectReference: {fileID: 0}
+    - target: {fileID: 6197800, guid: 6b7ab9b28ca8d4143be0d01152880ee1, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.00000071525574
+      objectReference: {fileID: 0}
+    - target: {fileID: 11480622, guid: 6b7ab9b28ca8d4143be0d01152880ee1, type: 3}
+      propertyPath: fsm.variables.floatVariables.Array.data[3].value
+      value: 530
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 11406514, guid: 6b7ab9b28ca8d4143be0d01152880ee1, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 6b7ab9b28ca8d4143be0d01152880ee1, type: 3}
+--- !u!1 &7961421936616039445 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 190104, guid: 6b7ab9b28ca8d4143be0d01152880ee1,
+    type: 3}
+  m_PrefabInstance: {fileID: 7961421936616178317}
+  m_PrefabAsset: {fileID: 0}

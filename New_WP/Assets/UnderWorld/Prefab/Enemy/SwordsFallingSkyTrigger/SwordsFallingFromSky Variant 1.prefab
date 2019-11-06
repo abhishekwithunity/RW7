@@ -1,0 +1,230 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &-8619465724946892753
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 7592669746552653438}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: -6772886796938903610}
+  - component: {fileID: 4194763312930514363}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &-6772886796938903610
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 7592669746552653438}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: -8619465724946892753}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4281515771108841963}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4194763312930514363
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 6010159161423176645, guid: 0c3e9929c124b4546a025dc700cd13f5,
+    type: 3}
+  m_PrefabInstance: {fileID: 7592669746552653438}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: -8619465724946892753}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 396db2380361ed344b9579b8b96ff8f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  jumpForce: 500
+  rotate: 0
+  delayAttack: 0.35
+  soundAttack: {fileID: 0}
+  soundDead: {fileID: 0}
+  deadFx: {fileID: 0}
+  scoreRewarded: 200
+--- !u!1 &-2735153160322393232
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 7592669746552653438}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4281515771108841963}
+  m_Layer: 0
+  m_Name: SwordsFallingFromSky Variant 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4281515771108841963
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 7592669746552653438}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: -2735153160322393232}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: -288089992081097075}
+  - {fileID: -6772886796938903610}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4194763312941853371
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 6010159161430322373, guid: 0c3e9929c124b4546a025dc700cd13f5,
+    type: 3}
+  m_PrefabInstance: {fileID: 7592669746552653438}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: -288089992081097075}
+  - component: {fileID: 1147963753}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &-288089992081097075
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 7592669746552653438}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4194763312941853371}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4281515771108841963}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1147963753
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4194763312941853371}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7dbb496c463874cfe9352c8a3f9e8a35, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  monster: {fileID: 4194763312930514363}
+--- !u!1001 &7592669746552653438
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6010159161430322373, guid: 0c3e9929c124b4546a025dc700cd13f5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6010159161423176645, guid: 0c3e9929c124b4546a025dc700cd13f5,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6010159161423176645, guid: 0c3e9929c124b4546a025dc700cd13f5,
+        type: 3}
+      propertyPath: soundAttack
+      value: 
+      objectReference: {fileID: 8300000, guid: fe801b404b9284e36a6ab791c28e583a, type: 3}
+    - target: {fileID: 6010159161430439045, guid: 0c3e9929c124b4546a025dc700cd13f5,
+        type: 3}
+      propertyPath: m_Name
+      value: SwordsFallingFromSky
+      objectReference: {fileID: 0}
+    - target: {fileID: 6010159161430439045, guid: 0c3e9929c124b4546a025dc700cd13f5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6010159161429985397, guid: 0c3e9929c124b4546a025dc700cd13f5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 6010159161429985397, guid: 0c3e9929c124b4546a025dc700cd13f5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 6010159161429985397, guid: 0c3e9929c124b4546a025dc700cd13f5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6010159161429985397, guid: 0c3e9929c124b4546a025dc700cd13f5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6010159161429985397, guid: 0c3e9929c124b4546a025dc700cd13f5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6010159161429985397, guid: 0c3e9929c124b4546a025dc700cd13f5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6010159161429985397, guid: 0c3e9929c124b4546a025dc700cd13f5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6010159161429985397, guid: 0c3e9929c124b4546a025dc700cd13f5,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6010159161429985397, guid: 0c3e9929c124b4546a025dc700cd13f5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6010159161429985397, guid: 0c3e9929c124b4546a025dc700cd13f5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6010159161429985397, guid: 0c3e9929c124b4546a025dc700cd13f5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -180
+      objectReference: {fileID: 0}
+    - target: {fileID: 6010159161430340725, guid: 0c3e9929c124b4546a025dc700cd13f5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8383387601266850621, guid: 0c3e9929c124b4546a025dc700cd13f5,
+        type: 3}
+      propertyPath: Sword
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 8383387601266850621, guid: 0c3e9929c124b4546a025dc700cd13f5, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 0c3e9929c124b4546a025dc700cd13f5, type: 3}

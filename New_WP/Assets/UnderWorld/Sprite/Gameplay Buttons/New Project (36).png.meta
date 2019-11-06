@@ -1,0 +1,784 @@
+fileFormatVersion: 2
+guid: 9ea629f7250fc4df4b4021241157d2bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6580159342802952569
+    second: New Project (36)_0
+  - first:
+      213: 3013214842297054981
+    second: New Project (36)_1
+  - first:
+      213: 6287049905846474647
+    second: New Project (36)_2
+  - first:
+      213: -1148181764088340119
+    second: New Project (36)_3
+  - first:
+      213: 663278521898920614
+    second: New Project (36)_4
+  - first:
+      213: 7070364640837906205
+    second: New Project (36)_5
+  - first:
+      213: 6023774067250615601
+    second: New Project (36)_6
+  - first:
+      213: -4051986485629193094
+    second: New Project (36)_7
+  - first:
+      213: 702452227739859602
+    second: New Project (36)_8
+  - first:
+      213: 7358054687899461756
+    second: New Project (36)_9
+  - first:
+      213: -2400314451950586091
+    second: New Project (36)_10
+  - first:
+      213: 830925731061201061
+    second: New Project (36)_11
+  - first:
+      213: -2899348625584364855
+    second: New Project (36)_12
+  - first:
+      213: 7397275399891024455
+    second: New Project (36)_13
+  - first:
+      213: -526621464754180178
+    second: New Project (36)_14
+  - first:
+      213: -7534464052432471794
+    second: New Project (36)_15
+  - first:
+      213: 7728750952941251433
+    second: New Project (36)_16
+  - first:
+      213: 1198826446313312610
+    second: New Project (36)_17
+  - first:
+      213: 8003655597230775521
+    second: New Project (36)_18
+  - first:
+      213: -8005537859148850698
+    second: New Project (36)_19
+  - first:
+      213: 941135693590053279
+    second: New Project (36)_20
+  - first:
+      213: 117796744918643637
+    second: New Project (36)_21
+  - first:
+      213: 2679480424566275525
+    second: New Project (36)_22
+  - first:
+      213: 2539082047541756293
+    second: New Project (36)_23
+  - first:
+      213: 4265040065965066007
+    second: New Project (36)_24
+  - first:
+      213: -1411153458191655809
+    second: New Project (36)_25
+  - first:
+      213: -8343396625861746188
+    second: New Project (36)_26
+  - first:
+      213: -995403219494992618
+    second: New Project (36)_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: New Project (36)_0
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 647
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6cb0251a2204e3fb7c20d2147ad54d
+      internalID: 6580159342802952569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (36)_1
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 521
+        width: 134
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b756c9a537f4ee79816c457de41baf
+      internalID: 3013214842297054981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (36)_2
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 523
+        width: 93
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6ba05a3bd2643339e98621232b22f1
+      internalID: 6287049905846474647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (36)_3
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 523
+        width: 93
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d46a50a201b4e87aba2cdc795ec4bb
+      internalID: -1148181764088340119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (36)_4
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 598
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1098cfb478d21450981b3023b1784f28
+      internalID: 663278521898920614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (36)_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 595
+        width: 202
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab3bb683dc6d4a13a6d9fc2ff419ea2
+      internalID: 7070364640837906205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (36)_6
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 501
+        width: 241
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c7250c213df4180bb920cc4958f30a
+      internalID: 6023774067250615601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (36)_7
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 411
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46f5aedbcfaa44e79d347581422d0ec
+      internalID: -4051986485629193094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (36)_8
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 414
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fe39024ea89430ca71a248059f2a93
+      internalID: 702452227739859602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (36)_9
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 413
+        width: 205
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42c4ab972ddd4580bb85d4aee0bd7d4
+      internalID: 7358054687899461756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (36)_10
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 414
+        width: 223
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5748c504e9340e9be4964f72ddb01f
+      internalID: -2400314451950586091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (36)_11
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 327
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e73813ed46d84876adb53d763123d91
+      internalID: 830925731061201061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (36)_12
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 327
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7000e8ba0d8453d8c0057541977686
+      internalID: -2899348625584364855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (36)_13
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 327
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f062abb20d8af4030aad855acab11e61
+      internalID: 7397275399891024455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (36)_14
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 327
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b28312621324e57aa6eb5dcd2eae00
+      internalID: -526621464754180178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (36)_15
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 327
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b20dd540d928450f82e1827bfe7784c
+      internalID: -7534464052432471794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (36)_16
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 313
+        width: 352
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797087f54ffc84548a930a6fa9673369
+      internalID: 7728750952941251433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (36)_17
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 174
+        width: 113
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a4a8704ab114324a1589c052bdb203
+      internalID: 1198826446313312610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (36)_18
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 174
+        width: 112
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7ace7fc6d3b476bbb9dd636c0008b4
+      internalID: 8003655597230775521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (36)_19
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 174
+        width: 113
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b6aadc499f148a38349cfe605e7e38
+      internalID: -8005537859148850698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (36)_20
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 174
+        width: 113
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0c8fa37a30d4c169a5eef7856aaf77
+      internalID: 941135693590053279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (36)_21
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 174
+        width: 112
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3251cec6db1224714ba2b4d7c9eebf70
+      internalID: 117796744918643637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (36)_22
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 52
+        width: 432
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50c2ee19fd91425caac4f75e74ab7fe
+      internalID: 2679480424566275525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (36)_23
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 88
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e44895a5194a4b938b75b8d961f111e
+      internalID: 2539082047541756293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (36)_24
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 88
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d01b070808cf4a9e9c1628752719225
+      internalID: 4265040065965066007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (36)_25
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 88
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953fd70c87ea146fbb6d84eabdd6f279
+      internalID: -1411153458191655809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (36)_26
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 88
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0485342c6964666a02298cd42c91e4
+      internalID: -8343396625861746188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (36)_27
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 88
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55feb5159fb6e40d08ab01fae1206188
+      internalID: -995403219494992618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e33f2cbf90faa4e29834b632c5aacada
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

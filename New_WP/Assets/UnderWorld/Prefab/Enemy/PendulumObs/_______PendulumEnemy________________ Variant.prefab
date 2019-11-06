@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3538491625274048895
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1730061257609696120, guid: 72d87fbd6e28d48a4b92cb2868728644,
+        type: 3}
+      propertyPath: m_Name
+      value: _______PendulumEnemy________________ Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 1730061257609696127, guid: 72d87fbd6e28d48a4b92cb2868728644,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.58
+      objectReference: {fileID: 0}
+    - target: {fileID: 1730061257609696127, guid: 72d87fbd6e28d48a4b92cb2868728644,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.38
+      objectReference: {fileID: 0}
+    - target: {fileID: 1730061257609696127, guid: 72d87fbd6e28d48a4b92cb2868728644,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1730061257609696127, guid: 72d87fbd6e28d48a4b92cb2868728644,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1730061257609696127, guid: 72d87fbd6e28d48a4b92cb2868728644,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1730061257609696127, guid: 72d87fbd6e28d48a4b92cb2868728644,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1730061257609696127, guid: 72d87fbd6e28d48a4b92cb2868728644,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1730061257609696127, guid: 72d87fbd6e28d48a4b92cb2868728644,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1730061257609696127, guid: 72d87fbd6e28d48a4b92cb2868728644,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1730061257609696127, guid: 72d87fbd6e28d48a4b92cb2868728644,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1730061257609696127, guid: 72d87fbd6e28d48a4b92cb2868728644,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1730061257457016941, guid: 72d87fbd6e28d48a4b92cb2868728644,
+        type: 3}
+      propertyPath: m_Name
+      value: PendulumObs1Degrees30
+      objectReference: {fileID: 0}
+    - target: {fileID: 1730061257115577297, guid: 72d87fbd6e28d48a4b92cb2868728644,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.49
+      objectReference: {fileID: 0}
+    - target: {fileID: 1730061257267917107, guid: 72d87fbd6e28d48a4b92cb2868728644,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6840001
+      objectReference: {fileID: 0}
+    - target: {fileID: 1730061257457016928, guid: 72d87fbd6e28d48a4b92cb2868728644,
+        type: 3}
+      propertyPath: leftpushrange
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1730061257457016928, guid: 72d87fbd6e28d48a4b92cb2868728644,
+        type: 3}
+      propertyPath: rightpushrange
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1730061257457016928, guid: 72d87fbd6e28d48a4b92cb2868728644,
+        type: 3}
+      propertyPath: velocitythreshold
+      value: 30
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 72d87fbd6e28d48a4b92cb2868728644, type: 3}
