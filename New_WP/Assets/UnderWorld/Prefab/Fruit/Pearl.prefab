@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5884290}
   - component: {fileID: 11491770}
   m_Layer: 15
-  m_Name: Dau
+  m_Name: Pearl
   m_TagString: Fruit
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

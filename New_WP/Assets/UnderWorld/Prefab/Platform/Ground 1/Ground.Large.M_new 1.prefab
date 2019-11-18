@@ -567,6 +567,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9100717249394013866}
   - component: {fileID: 9100717249372991810}
+  - component: {fileID: 928246749455438909}
   m_Layer: 8
   m_Name: Ground.Large.M_new 1
   m_TagString: Ground
@@ -640,6 +641,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &928246749455438909
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9100717249393792776}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.8772949, y: -0.39301682}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.89, y: 0.84}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 2.6445897, y: 3.2831478}
+  m_EdgeRadius: 0
 --- !u!1 &9100717249393803620
 GameObject:
   m_ObjectHideFlags: 0

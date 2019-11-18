@@ -1369,6 +1369,7 @@ GameObject:
   m_Component:
   - component: {fileID: 409886}
   - component: {fileID: 21290972}
+  - component: {fileID: 6712051748936765989}
   m_Layer: 8
   m_Name: Ground.Slope.L
   m_TagString: Ground
@@ -1383,7 +1384,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 180472}
-  m_LocalRotation: {x: 0, y: 0, z: 0.14858644, w: 0.98889947}
+  m_LocalRotation: {x: 0, y: 0, z: 0.14858618, w: 0.98889947}
   m_LocalPosition: {x: 13.41, y: -2.14, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -1392,7 +1393,7 @@ Transform:
   - {fileID: 462876}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 17.09}
 --- !u!212 &21290972
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1441,6 +1442,30 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!68 &6712051748936765989
+EdgeCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 180472}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_EdgeRadius: 0
+  m_Points:
+  - {x: -0.46149066, y: 0.3293609}
+  - {x: -2.409047, y: -6.07464}
+  - {x: 0.33024204, y: -6.862584}
+  - {x: 1.427026, y: -3.592425}
+  - {x: 2.6488895, y: 0.29986942}
+  - {x: 1.4930261, y: 0.17836519}
+  - {x: -0.4195523, y: 0.2726312}
+  - {x: -0.8593315, y: -1.0472479}
 --- !u!1 &189372
 GameObject:
   m_ObjectHideFlags: 0

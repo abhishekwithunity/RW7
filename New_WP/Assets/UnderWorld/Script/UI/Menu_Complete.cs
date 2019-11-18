@@ -55,7 +55,15 @@ public class Menu_Complete : MonoBehaviour {
 				if (!GameManager.instance.isFinishWorld)
 					Next.SetActive (true);
 			}
-		
+		/*
+            Changes done on 18/11/19*/
+
+            Menu.SetActive (true);
+            Restart.SetActive (true);
+            Next.SetActive (true);
+        
+
+
 			Score.text = score + "";	
 		}
 	}

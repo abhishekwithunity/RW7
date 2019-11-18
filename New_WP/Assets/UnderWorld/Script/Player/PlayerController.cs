@@ -36,10 +36,10 @@ public class PlayerController : MonoBehaviour {
 	[Tooltip("Time allow the magnet work")]
 	public float magnetTimer = 10f;
 
-    [Tooltip("Place the super vehicle-1  for player here, this object will be set on and off during game")]
-    public GameObject sv1;
-    [Tooltip("Time allow the super-vehicle-1")]
-    public float sv1Timer = 10f;
+    //[Tooltip("Place the super vehicle-1  for player here, this object will be set on and off during game")]
+    //public GameObject sv1;
+    //[Tooltip("Time allow the super-vehicle-1")]
+    //public float sv1Timer = 10f;
 
 
 
@@ -113,7 +113,7 @@ public class PlayerController : MonoBehaviour {
 
 	void Awake(){
 		Magnet.SetActive (false);		//Turn of the magnet when begin game
-        sv1.SetActive(false);           //Turn Off the supervehicle-1 when game begins
+       // sv1.SetActive(false);           //Turn Off the supervehicle-1 when game begins
     }
 
 	// Use this for initialization
@@ -467,8 +467,8 @@ public class PlayerController : MonoBehaviour {
         {
             Debug.Log("SuperVehicle Collected");
             SoundManager.PlaySfx(soundCollectBullet);
-            sv1.SetActive(true);
-            StartCoroutine(WaitAndDisableSuperVehicle(sv1Timer));
+       //     sv1.SetActive(true);
+       //     StartCoroutine(WaitAndDisableSuperVehicle(sv1Timer));
            // Destroy(other.gameObject);
         }
 
@@ -547,7 +547,7 @@ public class PlayerController : MonoBehaviour {
     //Disable the Super Vehicle after the time delay
     IEnumerator WaitAndDisableSuperVehicle(float time){
         yield return new WaitForSeconds (time);
-        sv1.SetActive (false);
+     //   sv1.SetActive (false);
        // Destroy(sv1);
     }
 
