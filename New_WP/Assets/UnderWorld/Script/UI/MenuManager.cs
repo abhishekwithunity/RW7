@@ -34,7 +34,8 @@ public class MenuManager : MonoBehaviour {
     {
         //  BG_LevelTrigger.instance.con
 
-        BeginnerLevel.instance.InfoWindows1.SetActive(false);
+        BeginnerLevel.instance.InfoWindows1.SetActive(true);
+
         Time.timeScale = 1; 
     }
 
