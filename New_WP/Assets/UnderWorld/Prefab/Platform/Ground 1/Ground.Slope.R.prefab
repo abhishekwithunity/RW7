@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 435978}
   - component: {fileID: 21266742}
   - component: {fileID: 327216250557811338}
+  - component: {fileID: 4585716099915615578}
   m_Layer: 8
   m_Name: Ground.Slope.R
   m_TagString: Ground
@@ -99,11 +100,37 @@ EdgeCollider2D:
   m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: 1.3550465, y: 0.1819646}
-  - {x: 3.092987, y: -4.7686024}
-  - {x: 6.351138, y: -3.8498209}
-  - {x: 4.9223866, y: 0.1916244}
-  - {x: 1.3820955, y: 0.22795404}
+  - {x: -0.49483576, y: 0.22657141}
+  - {x: 0.74771166, y: -3.7080104}
+  - {x: 3.3305426, y: -2.9423342}
+  - {x: 2.310324, y: 0.21998248}
+  - {x: -0.5549732, y: 0.24654958}
+--- !u!61 &4585716099915615578
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 106536}
+  m_Enabled: 0
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.88501596, y: -1.55}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.09, y: 0.65}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 2.8600316, y: 3.565873}
+  m_EdgeRadius: 0
 --- !u!1 &119610
 GameObject:
   m_ObjectHideFlags: 0

@@ -53,7 +53,7 @@ public class moveupdownspikedrop : MonoBehaviour
                 StartCoroutine(waitanddropspike());
                 speedWalk *= -1;
                 direction *= -1;
-                transform.localScale = new Vector2(transform.localScale.x * -1, 1);
+                //transform.localScale = new Vector2(transform.localScale.x * -1, 1);
             }
         }
         ///

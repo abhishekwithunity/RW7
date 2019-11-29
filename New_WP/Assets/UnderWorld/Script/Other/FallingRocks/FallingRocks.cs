@@ -23,7 +23,7 @@ public class FallingRocks : MonoBehaviour
     {
         // transform.Translate(-movingspeed, 0, 0);
     }
-    private bool isAttack = false;
+    //private bool isAttack = false;
   
 
     //send from PlayerController
@@ -39,8 +39,8 @@ public class FallingRocks : MonoBehaviour
     IEnumerator Falling(float time)
     {
         yield return new WaitForSeconds(time);
-        GetComponent<Rigidbody2D>().isKinematic = false;
-        enabled = false;
+      //  GetComponent<Rigidbody2D>().isKinematic = false;
+      //  enabled = false;
 
     }
 

@@ -3,13 +3,13 @@ using System.Collections;
 
 public class MonsterFishDetect : MonoBehaviour
 {
-    public SharkAttacking  monster;
-
+  //  public SharkAttacking  monster;
+    public MonsterFish fish;
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("Player"))
         {
-            monster.Attack();
+            fish.Attack();
 
             Destroy(gameObject);
             DestroytheMonster(1);
@@ -20,7 +20,7 @@ public class MonsterFishDetect : MonoBehaviour
     {
 
         yield return new WaitForSeconds(time);
-        Destroy(monster);
+        Destroy(fish);
         //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
 
     }

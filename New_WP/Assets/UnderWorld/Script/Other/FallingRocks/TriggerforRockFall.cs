@@ -21,8 +21,8 @@ public class TriggerforRockFall : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player"))
         {
-            Debug.Log("bridge");
-            fallrock.Work();
+          //  Debug.Log("bridge");
+          //  fallrock.Work();
             //other.gameObject.SendMessage("Work", SendMessageOptions.DontRequireReceiver);
         }
 

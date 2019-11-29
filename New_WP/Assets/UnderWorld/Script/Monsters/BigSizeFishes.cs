@@ -1,12 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
-public class MissilefromRighttoLeft : MonoBehaviour
+/// <summary>
+/// Big size fishes,the fishes requires 3hit to Die
+/// </summary>
+public class BigSizeFishes : MonoBehaviour
 {
-    /// <summary>
-    /// Fish Moving from right to left, killed by only one shot from the player
-    /// </summary>
     public float speed = 0.05f;
     public AudioClip soundDead;
     public GameObject deadFx;
@@ -34,7 +33,7 @@ public class MissilefromRighttoLeft : MonoBehaviour
     public GameObject impacteffect;
     //TooltipAttribute[""]
     [Tooltip("To make the Speed of the Fishes Random between 0.01f and 0.09f")]
-    public bool randomspeed=false;
+    public bool randomspeed = false;
 
 
     private bool isStop = false;
@@ -63,7 +62,7 @@ public class MissilefromRighttoLeft : MonoBehaviour
         }
         if (shootfromleft)
         {
-            transform.Rotate(0, 0,rotate);
+            transform.Rotate(0, 0, rotate);
         }
 
 
@@ -129,9 +128,17 @@ public class MissilefromRighttoLeft : MonoBehaviour
     {
         Instantiate(impacteffect, transform.position, Quaternion.identity);
         SoundManager.PlaySfx(hitotheraudiofx);
-        Destroy(gameObject);
-        
-if (other.CompareTag("Player"))
+        if (enemyhealth == 0f)
+        {
+            {
+                Destroy(gameObject);
+            }
+        }
+        else
+        {
+            enemyhealth--;
+        }
+        if (other.CompareTag("Player"))
         {
             Dead();
             //Push player up
@@ -149,8 +156,17 @@ if (other.CompareTag("Player"))
     {
         Instantiate(impacteffect, transform.position, Quaternion.identity);
         SoundManager.PlaySfx(hitotheraudiofx);
-        Destroy(gameObject);
-         
+        if (enemyhealth == 0f)
+        {
+            {
+                Destroy(gameObject);
+            }
+        }
+        else
+        {
+            enemyhealth--;
+        }
+
 
         if (other.gameObject.CompareTag("Player"))
         {
