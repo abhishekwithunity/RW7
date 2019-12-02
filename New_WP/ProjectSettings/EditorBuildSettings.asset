@@ -24,9 +24,9 @@ EditorBuildSettings:
     path: Assets/UnderWorld/Scene/World 01/W1-4.unity
     guid: 6012bbff37a8edf41ae7d5325a30edd7
   - enabled: 0
-    path: Assets/UnderWorld/Scene/World 01/W1-5.unity
+    path: Assets/UnderWorld/Scene/World 01/W1-5_old.unity
     guid: b37b68d6f45ce0844b2f5e1b542cccf6
-  - enabled: 0
+  - enabled: 1
     path: Assets/UnderWorld/Scene/World 01/W1-6.unity
     guid: 456926f7887d73c4195d77c53b20c792
   - enabled: 0
@@ -74,4 +74,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/UnderWorld/Scene/World 03/W3-3.unity
     guid: c2495a3d7b46464499e9d8f2562cf24b
+  - enabled: 1
+    path: Assets/UnderWorld/Scene/World 01/W1-5.unity
+    guid: e2334b3ad4d464cc5ad414acc9436d11
   m_configObjects: {}
